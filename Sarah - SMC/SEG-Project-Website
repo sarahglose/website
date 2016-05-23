@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<section>
+		<img src="#">
+		<nav>
+			<a href="#">About Me</a>
+			<a href="#">Work</a>
+			<a href="#">Education</a>
+			<a href="#">Skills</a>
+			<a href="#">Contact</a>
+		<img src="#">
+		</nav>
+
+
+
+	</section>
